@@ -1,5 +1,10 @@
 # Liver-CT-Scan_Project
 
+
+This project uses VIT and VGG16 for Liver CT Scan image classification.
+
+![Liver CT Sample](https://raw.githubusercontent.com/rajdeepcoder10/Liver-CT-Scan_Project/main/images/sample.png)
+
 🩺 Liver Disease Detection using VGG16 and Vision Transformer (ViT)
 🎯 A Deep Learning-powered system for automatic liver disease detection from CT scan images, using state-of-the-art VGG16 and ViT architectures.
 
