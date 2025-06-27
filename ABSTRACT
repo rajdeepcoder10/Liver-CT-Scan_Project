@@ -1,0 +1,4 @@
+ABSTRACT 
+
+Liver diseases, such as cirrhosis, hepatitis, and liver cancer, pose a serious global health challenge, contributing significantly to morbidity and mortality. Early and accurate diagnosis is essential for effective treatment and better patient outcomes. This project focuses on a predictive analysis approach for liver disease diagnosis using medical imaging.
+By allowing users to upload liver scan images, the system utilizes a trained deep learning model to analyze and classify the images for potential liver abnormalities. This streamlined image-based prediction method offers a fast and accessible diagnostic tool, aiming to support early detection efforts. The project also highlights the benefits, limitations, and future scope of using image-driven predictive analysis in improving liver disease screening and healthcare delivery.
