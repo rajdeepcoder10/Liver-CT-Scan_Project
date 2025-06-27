@@ -1,6 +1,28 @@
-# Liver-CT-Scan_Project
+<!-- Primary Meta Tags -->
+<title>GitHub - rajdeepcoder10/Liver-CT-Scan_Project: This repository contains all the files, code and dataset related to the liver repository</title>
+<meta name="title" content="GitHub - rajdeepcoder10/Liver-CT-Scan_Project: This repository contains all the files, code and dataset related to the liver repository" />
+<meta name="description" content="This repository contains all the files, code and dataset related to the liver repository  - GitHub - rajdeepcoder10/Liver-CT-Scan_Project: This repository contains all the files, code and dataset related to the liver repository" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://github.com/rajdeepcoder10/Liver-CT-Scan_Project" />
+<meta property="og:title" content="GitHub - rajdeepcoder10/Liver-CT-Scan_Project: This repository contains all the files, code and dataset related to the liver repository" />
+<meta property="og:description" content="This repository contains all the files, code and dataset related to the liver repository  - GitHub - rajdeepcoder10/Liver-CT-Scan_Project: This repository contains all the files, code and dataset related to the liver repository" />
+<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://github.com/rajdeepcoder10/Liver-CT-Scan_Project" />
+<meta property="twitter:title" content="GitHub - rajdeepcoder10/Liver-CT-Scan_Project: This repository contains all the files, code and dataset related to the liver repository" />
+<meta property="twitter:description" content="This repository contains all the files, code and dataset related to the liver repository  - GitHub - rajdeepcoder10/Liver-CT-Scan_Project: This repository contains all the files, code and dataset related to the liver repository" />
+<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Meta Tags Generated with https://metatags.io -->
 
 ![Liver CT Scan Sample](https://raw.githubusercontent.com/rajdeepcoder10/Liver-CT-Scan_Project/main/Results/Screenshot%202025-06-16%20210718.png)
+
+![image](https://github.com/user-attachments/assets/c7db11a0-9066-4d10-9945-a1aa6162aaf8)
+
 
 This project uses VIT and VGG16 for Liver CT Scan image classification.
 
