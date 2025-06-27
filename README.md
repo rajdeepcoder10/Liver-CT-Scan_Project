@@ -1,5 +1,6 @@
 # Liver-CT-Scan_Project
 
+![Liver CT Scan Sample](https://raw.githubusercontent.com/rajdeepcoder10/Liver-CT-Scan_Project/main/Results/Screenshot%202025-06-16%20210718.png)
 
 This project uses VIT and VGG16 for Liver CT Scan image classification.
 
